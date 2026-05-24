@@ -1,0 +1,4 @@
+.clawhub/
+*.pyc
+__pycache__/
+book-chat-progress.json
